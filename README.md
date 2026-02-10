@@ -27,3 +27,6 @@ user@company.com
 
 with support for SSO, MFA, and Conditional Access.
 ![image alt](https://github.com/Abhilash-Kadapa/Adding-a-Custom-Domain-Using-Microsoft-Entra-Connect-in-Azure/blob/main/Entra%20ID-1.png?raw=true)
+![image alt](https://github.com/Abhilash-Kadapa/Adding-a-Custom-Domain-Using-Microsoft-Entra-Connect-in-Azure/blob/main/Entra%20ID-2.png?raw=true)
+![image alt](https://github.com/Abhilash-Kadapa/Adding-a-Custom-Domain-Using-Microsoft-Entra-Connect-in-Azure/blob/main/Entra%20ID-3.png?raw=true)
+![image alt](https://github.com/Abhilash-Kadapa/Adding-a-Custom-Domain-Using-Microsoft-Entra-Connect-in-Azure/blob/main/Entra%20Connect%20Sync.png?raw=true)
